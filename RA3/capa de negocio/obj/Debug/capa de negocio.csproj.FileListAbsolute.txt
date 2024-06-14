@@ -1,0 +1,9 @@
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\capa de negocio\bin\Debug\capa de negocio.dll
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\capa de negocio\bin\Debug\capa de negocio.pdb
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\capa de negocio\bin\Debug\capa_de_datos.dll
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\capa de negocio\bin\Debug\capa_de_datos.pdb
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\capa de negocio\obj\Debug\capa de negocio.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\capa de negocio\obj\Debug\capa de negocio.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\capa de negocio\obj\Debug\capa de negocio.csproj.CopyComplete
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\capa de negocio\obj\Debug\capa de negocio.dll
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\capa de negocio\obj\Debug\capa de negocio.pdb

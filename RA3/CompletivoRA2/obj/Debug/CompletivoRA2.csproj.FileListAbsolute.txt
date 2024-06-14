@@ -1,0 +1,19 @@
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\CompletivoRA2\bin\Debug\CompletivoRA2.exe.config
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\CompletivoRA2\bin\Debug\CompletivoRA2.exe
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\CompletivoRA2\bin\Debug\CompletivoRA2.pdb
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\CompletivoRA2\bin\Debug\capa de negocio.dll
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\CompletivoRA2\bin\Debug\capa_de_datos.dll
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\CompletivoRA2\bin\Debug\capa de negocio.pdb
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\CompletivoRA2\bin\Debug\capa_de_datos.pdb
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\CompletivoRA2\obj\Debug\CompletivoRA2.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\CompletivoRA2\obj\Debug\CompletivoRA2.frm_menú.resources
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\CompletivoRA2\obj\Debug\CompletivoRA2.Form1.resources
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\CompletivoRA2\obj\Debug\CompletivoRA2.Properties.Resources.resources
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\CompletivoRA2\obj\Debug\CompletivoRA2.csproj.GenerateResource.cache
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\CompletivoRA2\obj\Debug\CompletivoRA2.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\CompletivoRA2\obj\Debug\CompletivoRA2.csproj.CopyComplete
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\CompletivoRA2\obj\Debug\CompletivoRA2.exe
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\CompletivoRA2\obj\Debug\CompletivoRA2.pdb
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\CompletivoRA2\obj\Debug\CompletivoRA2.cliente.resources
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\CompletivoRA2\obj\Debug\CompletivoRA2.libro.resources
+C:\Users\User1\Desktop\cosas\Trabajos de Alta Gama\formularios y controles\CompletivoRA2\obj\Debug\CompletivoRA2.prestamo.resources
